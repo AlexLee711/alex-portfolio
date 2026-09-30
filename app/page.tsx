@@ -116,7 +116,7 @@ export default function Home() {
               <div className="absolute -left-[31px] top-1 w-3.5 h-3.5 rounded-full border-2 border-white bg-blue-600 shadow-sm" />
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
                 <h3 className="text-lg font-bold text-slate-900">
-                  Graduate Full-Stack Assistant · <span className="text-blue-600 font-medium">UNC Chapel Hill (iCDCU Lab)</span>
+                  Full-Stack Graduate Student Assistant · <span className="text-blue-600 font-medium">UNC Chapel Hill (iCDCU Lab)</span>
                 </h3>
                 <span className="text-xs font-semibold text-slate-500">Jan 2026 – Present</span>
               </div>
